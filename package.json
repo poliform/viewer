@@ -1,0 +1,25 @@
+{
+  "name": "@poliform/viewer",
+  "version": "0.0.0",
+  "description": "3D viewer",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^16.0.5",
+    "typescript": "^4.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poliform/viewer.git"
+  },
+  "author": "Julia Raminska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poliform/viewer/issues"
+  },
+  "homepage": "https://github.com/poliform/viewer#readme"
+}

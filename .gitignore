@@ -1,5 +1,7 @@
 node_modules
-.DS_Store
 dist
-*.local
+relise
+
+# PNPM files
+.pnpm-debug.log
 pnpm-lock.yaml
